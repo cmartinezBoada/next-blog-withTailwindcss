@@ -12,13 +12,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Avec plus de 10 ans d'expérience dans l’industrie de la télévision numérique, j’ai perfectionné mes compétences en développement web, en intégration de systèmes et en conception de tests techniques avancés.
-<br>J’ai également travaillé dans des environnements organisés en méthodologie agile, notamment chez Cisco.<br>
-Portée par une forte sensibilité UX, j’ai enrichi mon expertise avec une certification en UX/UI design. Cette étape m’a permis de rejoindre un département communication où je conçois aujourd’hui des expériences numériques accessibles, performantes et centrées sur l’utilisateur.</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p>Avec plus de 10 ans d'expérience dans l’industrie de la télévision numérique, j’ai perfectionné mes compétences en développement web, en intégration de systèmes et en conception de tests techniques avancés</p>
+<p>J’ai également travaillé dans des environnements organisés en méthodologie agile, notamment chez Cisco.</p>
+<p>Portée par une forte sensibilité UX, j’ai enrichi mon expertise avec une certification en UX/UI design. Cette étape m’a permis de rejoindre un département communication où je conçois aujourd’hui des expériences numériques accessibles, performantes et centrées sur l’utilisateur.</p>
+       
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
