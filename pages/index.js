@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Avec plus de 10 ans d'expérience dans l’industrie de la télévision numérique, j’ai perfectionné mes compétences en développement web, en intégration de systèmes et en conception de tests techniques avancés.
-J’ai également travaillé dans des environnements organisés en méthodologie agile, notamment chez Cisco.
+<br>J’ai également travaillé dans des environnements organisés en méthodologie agile, notamment chez Cisco.<br>
 Portée par une forte sensibilité UX, j’ai enrichi mon expertise avec une certification en UX/UI design. Cette étape m’a permis de rejoindre un département communication où je conçois aujourd’hui des expériences numériques accessibles, performantes et centrées sur l’utilisateur.</p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
